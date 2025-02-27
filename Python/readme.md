@@ -4,7 +4,7 @@
 
 
 # Prompts
-Examples of compiling and runnings the programs from terminal. E.g. 25.py
+Example of running a python script from a terminal. E.g. 25.py
 
 ```
 python 25.py

@@ -5,7 +5,7 @@
 
 
 # Prompts
-Examples of compiling and runnings the programs from terminal. E.g. p1.c
+Example of compiling and running the programs from a terminal. E.g. p1.c
 ```bash
 gcc p1.c
 ./a.out
